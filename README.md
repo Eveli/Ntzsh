@@ -1,9 +1,9 @@
 Ntzsh
 -
 
-![Ntsh - Ntrrg](https://github.com/ntrrg/Ntzsh/blob/master/capturas/ntrrg.png)
-
 ![Ntsh - SU](https://github.com/ntrrg/Ntzsh/blob/master/capturas/su.png)
+
+![Ntsh - Ntrrg](https://github.com/ntrrg/Ntzsh/blob/master/capturas/ntrrg.png)
 
 Es necesario tener instalado Zsh (>= 4.3.17-1)
 
@@ -245,7 +245,7 @@ Es necesario tener instalado Zsh (>= 4.3.17-1)
 * (\<patrón\>): Agrupar.
 * |: Operador lógico OR, es el operador con menor precedencia por lo que se recomienda usar con parentesis
 
-		ls -d /home/ntrrg/(D*|P*)  # Mostrará todos los archivos y carpetas que empiecen con "P" o "D"
+		☮› ls -d /home/ntrrg/(D*|P*)  # Mostrará todos los archivos y carpetas que empiecen con "P" o "D"
 
 * ^: Negación, tiene más precedencia que "/" por lo que solo negará un elemento.
 		
