@@ -1,9 +1,9 @@
 Ntzsh
 -
 
-![Ntsh - Ntrrg](https://github.com/ntrrg/Ntzsh/blob/master/capturas/ntrrg.png)
-
 ![Ntsh - SU](https://github.com/ntrrg/Ntzsh/blob/master/capturas/su.png)
+
+![Ntsh - Ntrrg](https://github.com/ntrrg/Ntzsh/blob/master/capturas/ntrrg.png)
 
 Es necesario tener instalado Zsh (>= 4.3.17-1)
 
